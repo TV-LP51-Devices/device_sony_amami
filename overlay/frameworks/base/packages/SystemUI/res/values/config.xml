@@ -27,4 +27,4 @@
     <!-- Doze: shake accelerometer threshold -->
     <integer name="doze_shake_accelerometer_threshold">10</integer>
 
-</resources
+</resources>
