@@ -1,2 +1,3 @@
-android_device_sony_amami
-==========================
+# device_sony_amami
+Sony  Xperia Z1 Compact
+
